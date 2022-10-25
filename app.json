@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "RecetiasFit",
+    "slug": "RecetiasFit",
+    "version": "1.4.2",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.companyname.applicationname"
+    }
+  }
+}
