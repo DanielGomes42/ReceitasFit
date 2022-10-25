@@ -5,7 +5,7 @@ ReceitaFit é um app em React-native, desenvolvido para  facilitar a criação d
 ### Informações back-and:
 As informaçoes para API-Rest, não existem, então se proponhe duas possibilidades,
 
-### 1*  utilizando o Axios      [https://axios-http.com/docs/intro](https://axios-http.com/docs/intro/) para chamar algum site de pesquisa, e pasando parametros (input) de acordo com o itens culinários.
+### 1*  utilizando o Axios      [https://axios-http.com/docs/intro](https://axios-http.com/docs/intro/) para chamar algum site de pesquisa, e passando parametros (input) de acordo com o itens culinários.
 
 ### 2* Api com os dados de alimentos e  receitas!
 
